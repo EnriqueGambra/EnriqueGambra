@@ -13,7 +13,7 @@ Checkout my portfolio site at https://enriquegambra.github.io.
     media="(prefers-color-scheme: dark)"
   />
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=enriquegambra&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegambra&theme=transparent&show_icons=true" />
   </p>
 </picture>
 
