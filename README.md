@@ -7,5 +7,10 @@ Checkout my portfolio site at https://enriquegambra.github.io.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love working out and I have 4 guinea pigs!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegambra&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<picture align="center">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegambra&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+</picture>
 
