@@ -12,6 +12,8 @@ Checkout my portfolio site at https://enriquegambra.github.io.
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegambra&theme=transparent"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=enriquegambra&show_icons=true" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=enriquegambra&show_icons=true"/>
+  </p>
 </picture>
 
