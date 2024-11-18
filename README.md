@@ -6,3 +6,5 @@ Checkout my portfolio site at https://enriquegambra.github.io.
 - 🌱 I’m currently learning about various AWS services such as Lambdas, DynamoDB and API Gateway. In my day job at Netsmart Technologies we're beginning to utilize AWS services more and more which has allowed me to build new services for Netsmart to utilize.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love working out and I have 4 guinea pigs!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquegambra)](https://github.com/anuraghazra/github-readme-stats)
